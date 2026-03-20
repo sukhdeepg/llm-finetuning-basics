@@ -154,7 +154,7 @@ That's it. Everything else is scaffolding.
 ## File map
 
 ```
-llm-from-scratch/
+llm-finetuning-basics/
 ├── requirements.txt   # dependencies
 ├── model.py           # load, inspect, generate — start here
 ├── data.py            # dataset and tokenization

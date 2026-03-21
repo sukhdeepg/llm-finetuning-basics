@@ -4,11 +4,10 @@ A project for understanding how language models work
 and how fine-tuning changes them. No abstraction layers, just PyTorch and
 HuggingFace Transformers.
 
-<img width="862" height="167" alt="image" src="https://github.com/user-attachments/assets/23205cf8-ed92-4b62-a3a1-4a7d95bc7057" />
-
-<img width="205" height="488" alt="image" src="https://github.com/user-attachments/assets/60aba54e-1b73-4007-ab05-9f1bbe1c6660" />
-
-<img width="799" height="230" alt="image" src="https://github.com/user-attachments/assets/fa7d2503-7ae8-4468-95fe-f3e5b490da04" />
+<img width="1511" height="1619" alt="image" src="https://github.com/user-attachments/assets/677431c4-33a2-4065-9697-301fff5ccaf2" />
+<img width="1671" height="1083" alt="image" src="https://github.com/user-attachments/assets/22c1b00e-60f7-42cf-9852-979eb0a973e1" />
+<img width="1741" height="1421" alt="image" src="https://github.com/user-attachments/assets/7090c34d-37f9-437f-8064-9cce88ec807a" />
+<img width="1798" height="983" alt="image" src="https://github.com/user-attachments/assets/c19febaa-0c71-4985-a0d2-12050f95f6f1" />
 
 ---
 
